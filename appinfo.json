@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robisodd",
+    "longName": "PacMan",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "PacMan",
+    "uuid": "76f386e6-eab0-48e0-950e-1ba3a989b281",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
