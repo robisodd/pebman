@@ -4,13 +4,24 @@
         ""
     ],
     "companyName": "robisodd",
-    "longName": "PacMan",
+    "longName": "Z-PEBMAN",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/player-spritesheet.png",
+                "name": "PLAYER_SPRITESHEET",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            }
+        ]
     },
-    "shortName": "PacMan",
-    "uuid": "76f386e6-eab0-48e0-950e-1ba3a989b281",
+    "shortName": "Z-PEBMAN",
+    "uuid": "b00bface-effd-480f-b962-c0ded4c0ffee",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
