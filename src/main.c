@@ -17,7 +17,23 @@
     multiple pebmen (Multiball)
       all controlled the same, eat each other
     Goal to eat specific tile, then board resets
-  
+    
+    Begin:
+    Main Menu:
+      Options
+      > Begin
+      Players: 1
+      
+    While Playing:
+    Accelerometer to control joystick
+    Press Down to recenter joystick
+    Press Back to pause/main menu
+      Back again to exit
+      Up/Down/Select to choose options
+        Resume (default)
+        Restart
+        
+        
   Program Flow
   ------------
 Version 1:
